@@ -1,6 +1,6 @@
 # Transfer Learning to play Pacman via the Webcam
 
-Powered by Brains![alt text](https://i.ibb.co/71xNDQz/iconfinder-AI-Extention-289519-2.png "Brain") and Brawns![alt text](https://i.ibb.co/bX0G8d4/iconfinder-code-programming-javascript-software-develop-command-language-652581-1.png "Brawns")
+Powered by Brains![alt text](https://i.ibb.co/71xNDQz/iconfinder-AI-Extention-289519-2.png "Artifical Intelligence") and Brawns![alt text](https://i.ibb.co/bX0G8d4/iconfinder-code-programming-javascript-software-develop-command-language-652581-1.png "JavaScript")
 
 * This example shows how to predict poses from a webcam using transfer learning and Tensorflow.js.
 
